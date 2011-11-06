@@ -1,0 +1,41 @@
+HP:888
+DMG:88
+RLD:888
+RATE:888
+CLIP:88
+TYPE:AAAA
+	AUTO
+	SGNL
+	BRST
+GUN:AAAAA
+	SMG
+	RIFLE
+	ASSLT
+	SHTGN
+	SNPR
+	PSTL	
+	BOW
+
+
+
+Screen 1:
+|==============|
+Nme:AAAAAAAAAAAA
+Ownr:AAAA AAAAA >
+
+Screen 2:
+|2=4=6=8=1=2=4=|
+HP:888 GUN:AAAAA
+FIRE:# AAAAA   >
+
+Screen 3:
+|=2=4=6=8=1=2=4|
+RATE:12.5 DMG:88 
+RLD:5.3 CLIP:88 >
+##min NoTeam >No
+
+
+Game Screen:
+|=2=4=6=8=1=2=4|
+888 ############
+88/88  T3  88:88   
